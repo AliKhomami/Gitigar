@@ -7,4 +7,4 @@ ___
 <p>Gitigar is made using Dart language & Flutter framework.</p>
 
 ___
-<p>(https://www.figma.com/file/gqOzmoHTP55XvDeKnp7Zi9I2/Gitigar)</p>
+<p> To see UI concepts of Gitigar [Click Here](https://www.figma.com/file/gqOzmoHTP55XvDeKnp7Zi9I2/Gitigar). </p>
