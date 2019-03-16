@@ -1,5 +1,5 @@
 # Gitigar
-Gitigar is an Open source worldbuilding application. It helps Writers, Game developers and Movie Directors to add, edit, remove, monitor and orgenize elements like Characters, locations etc. and also world settings in their stories.
+Gitigar is an Open source worldbuilding application. It helps Writers, Game developers and Movie creators to add, edit, remove, monitor and orgenize elements like Characters, locations etc. and also world settings in their stories.
 
 ___
 ### Naming
