@@ -7,7 +7,8 @@ ___
   
 ___
 ### Technical & information
-<p>Gitigar is developed using <a href="https://github.com/flutter/flutter">Flutter Framework</a>.</p>
+<p>Gitigar is being developed using <a href="https://github.com/flutter/flutter">Flutter Framework</a>.</p>
+<p>For now we plan to work on mobile platforms (Android & iOS) but we might develope Gitigar for desktop platforms in the future.
 
 ___
 ### UI concepts and Prototypes
