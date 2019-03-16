@@ -3,7 +3,7 @@ Gitigar is an open source worldbuilding application. It helps Writers, Game deve
 
 ___
 ### Naming
-<p>The word "<b>Gitigar</b>" is a Persian(Farsi) phrase which is made up of two words, first "Giti" which means material world and second is the suffix "<b>-gar</b>" which means builder or maker (something like the suffix "-er" in English)<p>
+<p>The word "<b>Gitigar</b>" is a Persian(Farsi) phrase which is made up of two words, first "Giti" which means material world and second is the suffix "<b>-gar</b>" which means builder or maker (something like the suffix "-er" in English). So it simply means "Worldbuilder".<p>
   
 ___
 ### Technical & information
@@ -11,5 +11,5 @@ ___
 
 ___
 ### UI concepts and Prototypes
-<p> To see online prototypes of Gitigar visit this Figma file: https://www.figma.com/file/gqOzmoHTP55XvDeKnp7Zi9I2/Gitigar </p>
+<p> To see online prototypes of Gitigar <a href="https://www.figma.com/file/gqOzmoHTP55XvDeKnp7Zi9I2/Gitigar">Click here</a>.</p>
 
