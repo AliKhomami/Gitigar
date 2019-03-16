@@ -3,10 +3,10 @@ Gitigar is an open source worldbuilding application. It helps Writers, Game deve
 
 ___
 ### Naming
-<p>The word "<b>Gitigar</b>" is a Persian(Farsi) phrase which is made up of two words, first "Giti" which means material world and second is the suffix "<b>-gar</b>" which means builder or maker (something like the suffix "-er" in English). So it simply means "Worldbuilder".<p>
+<p>The word "<b>Gitigar</b>" is a Persian (Farsi) phrase which is made up of two words, first "Giti" which means material world (kinda old fashioned in modern Persian!) and second is the suffix "<b>-gar</b>" which means builder or maker (something like the suffix "-er" in English). So it simply means "Worldbuilder".<p>
   
 ___
-### Technical & information
+### Technical information
 <p>Gitigar is being developed using <a href="https://github.com/flutter/flutter">Flutter Framework</a>.</p>
 <p>For now we plan to work on mobile platforms (Android & iOS) but we might develope Gitigar for desktop platforms in the future.
 
