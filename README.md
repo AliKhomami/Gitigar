@@ -13,4 +13,6 @@ ___
 ___
 ### UI concepts and Prototypes
 <p> To see online prototypes of Gitigar <a href="https://www.figma.com/file/gqOzmoHTP55XvDeKnp7Zi9I2/Gitigar">Click here</a>.</p>
+{::nomarkdown}
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdGSRx23qqHfj798MaWc5v55C%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+{:/}
